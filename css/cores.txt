@@ -1,0 +1,5 @@
+--verde: #69A03A;
+--cinza: #707070;
+--azul: #002D7C;
+--cinza-claro: #A6A1A1;
+--escuro: #393939;

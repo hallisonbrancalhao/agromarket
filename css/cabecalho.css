@@ -1,0 +1,17 @@
+.cabecalho{
+    background-color: #69A03A;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    min-width: 100% !important;
+    min-height: 5rem;
+    padding: 40px 60px !important;
+}
+
+.cabecalho__logo{
+    max-width: 10rem;
+}
+
+.cabecalho__notificacao{
+    max-width: 10rem;
+}
